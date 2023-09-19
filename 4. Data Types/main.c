@@ -3,6 +3,13 @@
 
 int main()
 {
-    printf("hello world! \n");
+    
+    int age = 40;
+    double gpa = 3.6;
+    char grade = 'D';
+    char phrase[] = 'WOOOOO';
+
+
+
     return 0;
 }
