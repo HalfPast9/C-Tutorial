@@ -3,8 +3,11 @@
 
 int main()
 {
-    
-   printf("%f", 5.0 / 4);
+   
+   printf("%f", pow(4, 3));
+   printf("%f \n", sqrt(6));
+   printf("%f", ceil(6.6789));
+   printf("%f", floor(6.6789));
 
    return 0;
 }
