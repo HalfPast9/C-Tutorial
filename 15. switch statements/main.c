@@ -33,21 +33,5 @@ int main()
 */
 
 
-#include <stdio.h>
-int main(void) {
-int section = 1;
-switch (section ) {
-case 1:
-printf("You are in SYSC2006A");
-case 2:
-printf("You are in SYSC2006B");
-break;
-case 3:
-printf("You are in SYSC2006C");
-break;
-default:
-printf("Enjoy the weekend");
-}
-return 0;
-}
+
 

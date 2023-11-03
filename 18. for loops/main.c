@@ -17,3 +17,16 @@ int main(){
 
    return 0;
 }
+
+
+
+int add_one(int num){
+   int ret_value = num + 1;
+   return ret_value;
+}
+
+
+ int n = 1;
+ int retvalue;
+factorial = add_one(n);
+retvalue = factorial + n;

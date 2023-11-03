@@ -11,9 +11,11 @@ int main(){
 
    // go thru one iteration before while looping
    do{
+      index = 0;
       printf("%d \n", index);
       index++;
-   }while(index <= 5);
+
+   }while(index >= 5);
 
    return 0;
 }
