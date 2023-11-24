@@ -3,6 +3,11 @@
 
 
 //Recursive practise
+//Recursive practise
+
+//Iterate through the first 'n' elements an array, 
+//return the number of terget values, without the use of a loop.
+
 
 void recursive(int arr[], int target_val, int n, int *index, int *count) {
     if (n == 0) {
