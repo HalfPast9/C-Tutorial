@@ -47,6 +47,12 @@ void main()
    // 6) write a function that takes in a number, and prints out all the numbers from that number to 0, but only the numbers that are divisible by 3 or 5.
    // 7) write a function that takes in a number, and prints out all the numbers from that number to 0, but only the numbers that are divisible by 3 or 5, but not both.
    // 8) write a function that takes in a number, and prints out all the numbers from that number to 0, but only the numbers that are divisible by 3 or 5, but not both, and not 0.
+   
+   
+   // LOGIC FOR ALGORITHMS CAN BE FOUND IN: (C-Tutorial\advanced data types and data structures\11. arrays.c) <-file path
+   // 9) recursive bubble sort
+   // 10) recursive selection sort
+   // 11) recursive insertion sort
 
    // if you can do all of these, you should be able to do recursion pretty well for this course.
    // all thses examples build off eachother, use gpt for more variety if you want.
