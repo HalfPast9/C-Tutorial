@@ -54,6 +54,8 @@ int main()
     char phrase[] = 'WOOOOO';
     }
 
+
+
     //****TYPE CONVERSION****
     // general rule: if you are combining two different data types, the compiler will convert the less broad data type to the more broad data type
     // this prevents data loss
