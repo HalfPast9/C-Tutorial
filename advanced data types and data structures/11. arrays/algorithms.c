@@ -44,7 +44,7 @@ int main()
          }
       }
    }*/
-
+   
    //***********INSERTION SORT***********
    int key, i, j;
    for(i = 1; i<size_arr; i++){

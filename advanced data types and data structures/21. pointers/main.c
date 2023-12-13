@@ -3,6 +3,14 @@
 
 int main(){  
 
+   // a pointer is a variable that stores a memory address
+   // a memory address is a location in memory
+   // memory address tells the computer where to find the variable the pointer is pointing to
+
+   // a pointer is a variable tells the computer where to find another variable
+
+
+
    int age = 30;
    int * pAge = &age;
 
