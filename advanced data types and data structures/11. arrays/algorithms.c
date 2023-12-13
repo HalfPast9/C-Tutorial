@@ -7,9 +7,8 @@
 
 int main()
 {
-   //int data[] = {123,124,423,223,534,232,13,124,121,455,886,496,542,4,7,8,2,8,0};
-   int data[] = {4,3,2,10,12,1,5,6};
-   int size_arr = 8;
+   int data[] = {123,124,423,223,534,232,13,124,121,455,886,496,542,4,7,8,2,8,0};
+   int size_arr = 19;
 
 
 
@@ -47,8 +46,8 @@ int main()
    }*/
 
    //***********INSERTION SORT***********
-   //int key, i, j;
-   /*for(i = 1; i<size_arr; i++){
+   int key, i, j;
+   for(i = 1; i<size_arr; i++){
 
       key = data[i];
       j = i-1;
@@ -57,7 +56,7 @@ int main()
          j= j-1;
       }
       data[j+1] = key;
-   }*/
+   }
 
    //print sorted array
    for(int i = 0; i< size_arr; i++){
