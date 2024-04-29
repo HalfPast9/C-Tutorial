@@ -41,6 +41,12 @@ void main()
 
    // 1) write a function that takes in a number, and prints out all the numbers from 0 to that number.
    // 2) write a function that takes in a number, and prints out all the numbers from that number to 0.
+   void myFunction(x):
+      if(x ==0){
+         return;
+      }
+      printf("%i", x);
+      return myFunction(x-1);
    // 3) write a function that takes in a number, and prints out all the numbers from that number to 0, but only the even numbers.
    // 4) write a function that takes in a number, and prints out all the numbers from that number to 0, but only the odd numbers.
    // 5) write a function that takes in a number, and prints out all the numbers from that number to 0, but only the numbers that are divisible by 3.
